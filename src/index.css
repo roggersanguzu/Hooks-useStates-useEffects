@@ -1,0 +1,19 @@
+
+.unit{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #ccc;
+  box-shadow: 0.5px 0.5px 3px 3px greenyellow;
+  margin-top: 20px;
+  text-align: center;
+  cursor: pointer;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.unit h1{
+  padding-left: 10%;
+  font-size: 20px;
+}
+body{
+  background-color: white;
+}
